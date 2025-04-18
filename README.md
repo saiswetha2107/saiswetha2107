@@ -1,5 +1,5 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Sai Swetha </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saiswethaswethab/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/saiswethaswethab](https://www.linkedin.com/in/sai-swetha-balanagar-438847273/))
 ### &nbsp;  <p align="left">Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=dipchand20&label=Profile%20views&color=0e75b6&style=flat" alt="dipchand20" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
